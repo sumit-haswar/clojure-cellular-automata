@@ -1,14 +1,14 @@
-# assignment03
+# One-dimensional Cellular Automata using Clojure
 
-A Clojure library designed to ... well, that part is up to you.
+It shows the 256 one-dimensional cellular automata. Each generation follows 
+from the preceding by applying one of the 256 rule sets.
+
+Check http://mathworld.wolfram.com/ElementaryCellularAutomaton.html for more details.
 
 ## Usage
 
-FIXME
+Display of Clojure bit operations such as such as bit-shift-left, bit-shift-right, bit-test, bit-and, and bit-set.
 
 ## License
 
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright © 2014 sumit-haswar

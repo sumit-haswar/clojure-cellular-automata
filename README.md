@@ -7,7 +7,7 @@ Check http://mathworld.wolfram.com/ElementaryCellularAutomaton.html for more det
 
 ## Usage
 
-Display of Clojure bit operations such as such as bit-shift-left, bit-shift-right, bit-test, bit-and, and bit-set.
+Display of Clojure bit operations such as bit-shift-left, bit-shift-right, bit-test, bit-and, and bit-set.
 
 ## License
 
